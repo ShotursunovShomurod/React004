@@ -1,6 +1,6 @@
 body {
   background-image: linear-gradient(90deg, rgb(0, 0, 0), rgb(255, 0, 0));
-  padding: 0 30px;
+  height: 100%;
 }
 
 .form__input {
@@ -20,4 +20,9 @@ body {
   img {
     transform: scale(1.1);
   }
+}
+
+
+.Header{
+  background-image: linear-gradient(90deg, rgb(0, 0, 0), rgb(255, 0, 0));
 }
